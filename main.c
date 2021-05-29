@@ -3,6 +3,7 @@
 #define NAME_SIZE 128
 
 typedef char * String;
+typedef void null;
 
 void greet();
 int main() {
